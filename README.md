@@ -1,7 +1,7 @@
 # Sistema Integral de Gestión de Clientes, Servicios y Reservas – Software FJ
 
 **Curso:** Programación (Código: 213023) – Fase 4: Componente Práctico (Prácticas Simuladas)  
-**Institución:** Universidad Nacional Abierta y a Distancia (UNAD)  
+**Institución:** Universidad Nacional Abierta y  a Distancia (UNAD)  
 **Escuela:** Escuela de Ciencias Básicas, Tecnología e Ingeniería (ECBTI)  
 **Autor:** David Santiago Acosta Santos  
 **Lenguaje:** Python 3.10+  
